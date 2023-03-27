@@ -51,7 +51,8 @@ textarea {
     text-align: center;
     background-color: red;
     color: blue;
-    width: 100px;
+    width: 60px;
+    height: 50px;
     border-radius: 8px;
 }
 .course > li .details {
